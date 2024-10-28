@@ -1,7 +1,8 @@
 /*
-      Leetcode Link               : https://leetcode.com/problems/remove-duplicate-letters/
-      EXACT SAME QUES             : https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
-      Company Tags                : GOOGLE, Oracle Online Assessment
+        [Q.316]
+        Leetcode Link               : https://leetcode.com/problems/remove-duplicate-letters/
+        EXACT SAME QUES             : https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/
+        Company Tags                : GOOGLE, Oracle Online Assessment
 */
 
 
